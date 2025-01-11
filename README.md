@@ -10,7 +10,7 @@ This repository details a pipeline for processing and analyzing news data to gen
 -   **Azure Data Factory**: Orchestrates data flows, managing data ingestion and integration.
 -   **Azure Databricks**: Provides a powerful platform for data transformation and analysis using Apache Spark.
 
-![Data Pipeline](/mnt/data/data-pipeline.png)
+![Data Pipeline](/data-pipeline.png)
 
 ## Data Ingestion
 
